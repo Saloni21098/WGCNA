@@ -76,7 +76,7 @@ NCBI GEO > GSE152418 > Download the supplementary file GSE152418_p20047_Study1_R
 5. The Ensembl IDs of top 25 genes were converted into Gene IDs.
 
 ## Conclusion
-Hence, the genes from our module of interest (turquoise module) are extracted.
+Hence, the genes from our module of interest (turquoise module) are identified.
 The top 25 genes that are associated with severe COVID-19 cases are:
  1. Cell division cycle 42 (CDC42)                             
  2. Aurora kinase A (AURKA)                                  
