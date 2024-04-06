@@ -29,12 +29,12 @@ Data: RNA-Seq data of Peripheral Blood Mononuclear Cells (PBMCs) from a group of
 Total samples = 34
 NCBI GEO > GSE152418 > Download the supplementary file GSE152418_p20047_Study1_RawCounts.txt.gz (http)
 
-## Biological Questions that are to be addressed:
+## Biological Questions that are to be addressed
 •	What are the genes or clusters of genes (modules) significantly associated with COVID-19 individuals?
 •	What are the genes that are significantly associated with severe COVID-19 cases?
 
     
-## Requirements:
+## Requirements
 - R (v4.2.1)
 - R libraries and packages:
 •	BiocManager
